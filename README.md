@@ -139,10 +139,10 @@ int main()
 }
 ```
 
-
-
-
-
 ## Output:
 <img width="1712" height="681" alt="image" src="https://github.com/user-attachments/assets/dbc2d668-9575-47f6-80fa-f38c1006fd60" />
+
+## Result:
+
+Thus, the Playfair Cipher encryption and decryption program was executed successfully and the expected encrypted and decrypted outputs were obtained.
 
